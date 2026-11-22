@@ -5,15 +5,6 @@
 CG Artist / Technical Animator / Technical Director with a career spanning
 film VFX, AAA games, and animation.
 
-## 🧰 Career
-| Role | Studio | Dates |
-|---|---|---|
-| Sr. Technical Artist, Tools & Engine | Riot Games (TFT) | Sep 2024 – Present |
-| Technical Director | Pixar Animation Studios | Sep 2022 – Jan 2024 |
-| Technical Artist (Cameras) | Rockstar Games | Jul 2021 – Aug 2022 |
-| Tracking / Matchmove Artist | Luma Pictures | Feb 2016 – Jun 2021 |
-| 3D Artist | The Mill (Chicago) | Sep 2014 – Nov 2015 |
-
 ## 🎬 Selected Credits
 - **GTA VI, GTA V, GTA Online, RDR2, Red Dead Online** — Technical Artist: Cameras (Rockstar)
 - **Elio (2025)** — Additional Dailies & Rendering TDs (Pixar)
