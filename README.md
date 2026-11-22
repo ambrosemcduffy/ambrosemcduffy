@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Ambrose McDuffy
 
-<!--
-**ambrosemcduffy/ambrosemcduffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Technical Artist — Tools & Engine** · Teamfight Tactics @ Riot Games
 
-Here are some ideas to get you started:
+CG Artist / Technical Animator / Technical Director with a career spanning
+film VFX, AAA games, and animation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Career
+| Role | Studio | Dates |
+|---|---|---|
+| Sr. Technical Artist, Tools & Engine | Riot Games (TFT) | Sep 2024 – Present |
+| Technical Director | Pixar Animation Studios | Sep 2022 – Jan 2024 |
+| Technical Artist (Cameras) | Rockstar Games | Jul 2021 – Aug 2022 |
+| Tracking / Matchmove Artist | Luma Pictures | Feb 2016 – Jun 2021 |
+| 3D Artist | The Mill (Chicago) | Sep 2014 – Nov 2015 |
+
+## 🎬 Selected Credits
+- **GTA VI, GTA V, GTA Online, RDR2, Red Dead Online** — Technical Artist: Cameras (Rockstar)
+- **Elio (2025)** — Additional Dailies & Rendering TDs (Pixar)
+- **27 VFX credits** incl. Black Panther, Thor: Ragnarok, Spider-Man: Far From Home,
+  Doctor Strange, Captain Marvel, Godzilla vs. Kong, Loki, Eternals (Luma Pictures)
+
+## ⚙️ What I Build
+- UE 5.7 migration tooling · 33k+ asset TextureGroup automation
+- Skeletal-mesh → VAT conversion tool (adopted by vendors for arena optimization)
+- Noxus Ring VAT optimization (~29% frame-time reduction, 7→5 ms A/B)
+- Memreport parser (GUI + CSV + visualization), MotionBuilder & Python/PyQt tools
+- Render optimization & asset-test management pipelines (Pixar)
+
+## 🤖 Current Interests
+LLMs, vLLM inference on DGX clusters, quantization (NVFP4/Int4), diffusion models,
+and agentic AI workflows — see [dgx-spark-lab](https://github.com/ambrosemcduffy/dgx-spark-lab).
+
+## 🔗 Elsewhere
+[Website](https://www.ambrosemcduffy.com) · [LinkedIn](https://linkedin.com/in/ambrose-mcduffy) · [IMDb](https://imdb.com/name/nm9520778)
