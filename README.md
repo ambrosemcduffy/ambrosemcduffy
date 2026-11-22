@@ -7,7 +7,7 @@ film VFX, AAA games, and animation.
 
 ## 🧰 Career
 | Role | Studio |
-|---|---|---|
+|---|---|
 | Sr. Technical Artist, Tools & Engine | Riot Games (TFT)
 | ex-Technical Director | Pixar Animation Studios 
 | ex-Technical Artist (Cameras) | Rockstar Games
