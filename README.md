@@ -22,9 +22,10 @@ film VFX, AAA games, and animation.
   Doctor Strange, Captain Marvel, Godzilla vs. Kong, Loki, Eternals (Luma Pictures)
 
 ## ⚙️ What I Build
+- Finetuned Lora Custom models
+- ML agentic hooks, and workflows.
 - UE 5.7 migration tooling · 33k+ asset TextureGroup automation
 - Skeletal-mesh → VAT conversion tool (adopted by vendors for arena optimization)
-- Noxus Ring VAT optimization (~29% frame-time reduction, 7→5 ms A/B)
 - Memreport parser (GUI + CSV + visualization), MotionBuilder & Python/PyQt tools
 - Render optimization & asset-test management pipelines (Pixar)
 
