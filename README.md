@@ -12,7 +12,7 @@ film VFX, AAA games, and animation.
 | ex-Technical Director | Pixar Animation Studios 
 | ex-Technical Artist (Cameras) | Rockstar Games
 | ex-Tracking / Matchmove Artist TA | Luma Pictures
-| ex- 3D Artist | The Mill (Chicago)
+| ex-3D Artist | The Mill (Chicago)
 
 
 ## 🎬 Selected Credits
